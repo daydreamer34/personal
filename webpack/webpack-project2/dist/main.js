@@ -1,1 +1,0 @@
-new function({name:e,energy:n}){this.name=e,this.energy=n}({name:"Cat",energy:4});
