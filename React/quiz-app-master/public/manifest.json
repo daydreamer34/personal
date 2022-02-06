@@ -1,0 +1,8 @@
+{
+  "name": "Quiz App",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2196f3",
+  "background_color": "#ffffff"
+}
